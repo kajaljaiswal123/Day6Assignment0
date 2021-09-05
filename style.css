@@ -1,0 +1,16 @@
+*{
+    background-color: rgb(205, 205, 221);
+    
+}
+h1{
+    color:rgb(10, 13, 214) ;
+    font-style: oblique;
+}
+table tr td{
+    background-image: url(learn.jpg);
+    background-attachment: fixed;
+    height: 30px;
+    width: 200px;
+    font-size: 30px;
+    font-style:oblique ;
+}
